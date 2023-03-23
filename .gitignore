@@ -1,0 +1,9 @@
+# Ignore build and Polysapce result temporary files
+pre_commit_sqo_tmp/
+
+# Ignore Visual studio solution files
+.vs/
+sqo_quality_gate.sln
+sqo_quality_gate.vcxproj
+sqo_quality_gate.vcxproj.filters
+sqo_quality_gate.vcxproj.user
