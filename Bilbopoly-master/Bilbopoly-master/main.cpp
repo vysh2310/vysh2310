@@ -8,7 +8,7 @@
 
 typedef unsigned int uint32_t;
 
-uint32_t main() {
+int main() {
   try {
     game a_game;
     player a_player_0("Sand");
